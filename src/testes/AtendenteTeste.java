@@ -1,7 +1,6 @@
 package testes;
 
 import java.util.List;
-import java.util.Scanner;
 
 import entidades.Atendente;
 import repositorios.AtendenteRepositorio;
